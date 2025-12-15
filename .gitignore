@@ -1,0 +1,16 @@
+# Ignore PowerPoint files
+*.pptx
+*.ppt
+
+# Ignore temporary MS Office files
+~$*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Jupyter cache
+.ipynb_checkpoints/
